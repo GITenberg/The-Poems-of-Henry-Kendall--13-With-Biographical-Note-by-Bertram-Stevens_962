@@ -1,0 +1,35 @@
+_repo: The-Poems-of-Henry-Kendall--13-With-Biographical-Note-by-Bertram-Stevens_962
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Stevens, Bertram
+    birthdate: 1872
+    deathdate: 1922
+    gutenberg_agent_id: '550'
+    url: http://www.gutenberg.org/2009/agents/550
+    wikipedia: http://en.wikipedia.org/wiki/Bertram_Stevens_(critic)
+creator:
+  author:
+    agent_name: Kendall, Henry
+    alias: Kendall, Thomas Henry
+    birthdate: 1839
+    deathdate: 1882
+    gutenberg_agent_id: '489'
+    url: http://www.gutenberg.org/2009/agents/489
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Kendall_%28poet%29
+description: ''
+gutenberg_issued: '1997-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '962'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Australian poetry'
+- !lcc 'PR'
+- !lcsh 'Kendall, Henry, 1839-1882'
+- GITenberg
+title: "The Poems of Henry Kendall\r\nWith Biographical Note by Bertram Stevens"
+url: http://www.gutenberg.org/ebooks/962
